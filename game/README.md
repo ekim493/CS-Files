@@ -1,8 +1,9 @@
 # Addendum
 Game runs on a GBA emulator using Docker. All code in `main.c`, and `main.h` are coded by me. Part of `gba.c` was coded by me. The rest of the code was provided.
 
-Video
-https://github.com/user-attachments/assets/be43a44d-039d-4b71-a608-318e72fa73e1
+**Video Demo:**
+
+https://github.com/user-attachments/assets/888fefa6-952b-406f-a1b9-a73398b5e7cc
 
 # Game
 Maze Dash
