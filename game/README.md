@@ -1,7 +1,10 @@
 # Addendum
 Game runs on a GBA emulator using Docker. All code in `main.c`, and `main.h` are coded by me. Part of `gba.c` was coded by me. The rest of the code was provided.
 
-#Game
+Video
+https://github.com/user-attachments/assets/be43a44d-039d-4b71-a608-318e72fa73e1
+
+# Game
 Maze Dash
 
 ## Goal
@@ -17,3 +20,4 @@ Press select at any time to go back to the start screen.
 ## Settings
 Navigate the settings menu by using the up and down arrows, and use the left and right arrows to change the setting.
 You can customize your speed, size, color, and turn on cheats.
+
